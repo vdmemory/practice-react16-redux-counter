@@ -1,0 +1,14 @@
+.wrap {
+  text-align: center;
+}
+
+.wrap h2 {
+  line-height: 50px;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+}
+
+.btn {
+  margin: 5px;
+}
